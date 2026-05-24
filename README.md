@@ -22,11 +22,3 @@ View the live site here
 https://kairos-sneakers.netlify.app/
 
 Built with passion and obsessive craftsmanship.
-
-## 🚀 Getting Started
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository**
-   ```bash
-   git clone [https://github.com/bacuuyyy/kairos-sneakers-website.git](https://github.com/bacuuyyy/kairos-sneakers-website.git)

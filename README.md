@@ -22,3 +22,31 @@ View the live site here
 https://kairos-sneakers.netlify.app/
 
 Built with passion and obsessive craftsmanship.
+
+## 🚀 Getting Started
+
+To run this project locally on your machine, follow these steps:
+
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine. This project uses **Bun** as the package manager.
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/bacuuyyy/kairos-sneakers-website.git](https://github.com/bacuuyyy/kairos-sneakers-website.git)
+   ```
+
+2. **Navigate into the project directory:**
+   ```bash
+   cd kairos-sneakers-website
+   
+3. Install the dependencies:
+   ```bash
+   bun install
+
+4. Start the development server:
+   ```bash
+   bun run dev
+
+Open http://localhost:5173 (or the specific port shown in your terminal) with your browser to see the result.
